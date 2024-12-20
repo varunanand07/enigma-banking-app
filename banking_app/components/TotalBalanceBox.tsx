@@ -1,4 +1,5 @@
 import React from 'react'
+import AnimatedCounter from './AnimatedCounter'
 
 const TotalBalanceBox = ({
     accounts = [], totalBanks, totalCurrentBalance
