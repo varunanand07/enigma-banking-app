@@ -38,7 +38,7 @@ This project is a modern banking application with a finance management dashboard
   - Node.js
   - API routes with Next.js
 - **Data Visualization**:
-  - Chart.js or similar library for creating interactive graphs and charts
+  - Chart.js for creating interactive graphs and charts
 - **Deployment**:
   - AWS for hosting and deployment
 
